@@ -1,17 +1,5 @@
 # WEATHER-DASHBOARD
 
-*COMPANY*: CODTECH IT SOLUTIONS 
-
-*NAME*:MUZAMMIL AHMED
-
-*INTERN ID*:CT04DY2061
-
-*DOMAIN*:REACT.JS WEB DEVELOPMENT
-
-*DURATION*:4 WEEKS
-
-*MENTOR*:NEELA SANTHOSH KUMAR
-
 ** Weather Dashboard is a modern, responsive web application developed using React and Tailwind CSS, designed to provide users with real-time weather information from any location around the world. The primary goal of this project is to create an intuitive and visually appealing interface that allows users to quickly and easily access accurate weather data for any city. By integrating a reliable weather API, such as OpenWeatherMap, the application fetches up-to-date information, including temperature, humidity, wind speed, weather conditions, and more, ensuring that users always have access to the latest weather updates.
 
  ** The application is built with React, a powerful JavaScript library for building dynamic user interfaces. React’s component-based architecture allows for a clean separation of concerns, enabling reusable components for search functionality, weather display cards, and dynamic visual elements. This makes the application scalable and easy to maintain while providing smooth and responsive user interactions. Tailwind CSS, a utility-first CSS framework, is used to style the dashboard, ensuring a modern, sleek, and responsive design that works seamlessly across devices of all sizes, including desktops, tablets, and mobile phones.
